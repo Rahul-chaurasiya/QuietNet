@@ -22,7 +22,7 @@ https://github.com/Rahul-chaurasiya/QuietNet/assets/77222540/0d35c3c2-0f3c-4ccb-
 - Users can select a topic to discuss, and when they click on a post, they can view the post details and share their thoughts.
 - Posts are stored in the post table in the database. Each post is associated with the user who created it via the pUserid foreign key.
 
-#@# Sharing Thoughts:
+### Sharing Thoughts:
 - Users can share their thoughts on existing topics or create new topics if their desired topic title is not present.
 - When users share their thoughts, a new post is created and added to the post table in the database.
 
@@ -30,7 +30,7 @@ https://github.com/Rahul-chaurasiya/QuietNet/assets/77222540/0d35c3c2-0f3c-4ccb-
 - Users can like posts to express their appreciation or agreement.
 - Likes are stored in the like table in the database, where each like is associated with a specific post and user.
 
-## Sign-in/Sign-out System:
+### Sign-in/Sign-out System:
 - QuietNet has a robust sign-in/sign-out system to authenticate users and protect their accounts.
 - User authentication is managed using session management techniques, likely involving cookies or session tokens.
 
